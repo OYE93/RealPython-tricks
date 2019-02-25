@@ -13,3 +13,4 @@ and some notes based on commands used in tricks.
 |[6. pack_unpack.ipynb](6.%20pack_unpack.ipynb)|Function arguments pack and unpack in Python|
 |[7. timeit.ipynb](7.%20timeit.ipynb)|Use timeit to measure execution time|
 |[8. is_vs_==.ipynb](8.%20is_vs_%3D%3D.ipynb)|`is` VS `==` in Python|
+|[9. collection.Counter.ipynb](9.%20collection.Counter.ipynb)|Use collection.Counter()|
